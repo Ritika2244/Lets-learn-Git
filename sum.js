@@ -9,6 +9,7 @@ let cap={
    movies: ["FirstAvenger","SecondAvenger"],
    sayHi: function(){
       console.log("Cap say");
+      console.log("Hello world");
    }
 };
 
