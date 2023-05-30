@@ -8,7 +8,7 @@ let cap={
    ,isAvenger:true,
    movies: ["FirstAvenger","SecondAvenger"],
    sayHi: function(){
-      console.log("Cap say");
+      console.log("Cap sello");
       console.log("Hello world");
    }
 };
